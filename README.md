@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![snake gif](https://github.com/PauloVanzella/PauloVanzella/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **PauloVanzella/PauloVanzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
