@@ -1,6 +1,5 @@
 
- <img src=”https://github.com/PauloVanzella/PauloVanzella/finalversion.gif” heigth="100px" weigth="500px">
-
+![](finalversion.gif)
 ![snake gif](https://github.com/PauloVanzella/PauloVanzella/blob/output/github-contribution-grid-snake.svg)
 
 Hi, my name is Paulo Ricardo Vanzella, a brazilian self learn, musician and polyglot. 
