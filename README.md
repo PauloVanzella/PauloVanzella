@@ -1,4 +1,4 @@
-![](dtor.gif)
+![](finalversion.gif)
 
 ![snake gif](https://github.com/PauloVanzella/PauloVanzella/blob/output/github-contribution-grid-snake.svg)
 
