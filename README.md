@@ -1,9 +1,9 @@
-### Paulo Ricardo Vanzella
+![](dtr.gif)
 
 ![snake gif](https://github.com/PauloVanzella/PauloVanzella/blob/output/github-contribution-grid-snake.svg)
 
 Hi, my name is Paulo Ricardo Vanzella, a brazilian self learn, musician and polyglot. 
-![](dtr.gif)
+
 I'm currently working with C#, JavaScript, HTML, CSS and SQL Server.
 
 My last studies is about python (bioinformatics, AIs and Big Data)
