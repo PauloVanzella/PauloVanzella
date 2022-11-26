@@ -1,5 +1,5 @@
 
- <img src=”https://github.com/PauloVanzella/PauloVanzella/finalversion.gif”>
+ <img src=”https://github.com/PauloVanzella/PauloVanzella/finalversion.gif” heigth="100" weigth="500px">
 
 ![snake gif](https://github.com/PauloVanzella/PauloVanzella/blob/output/github-contribution-grid-snake.svg)
 
