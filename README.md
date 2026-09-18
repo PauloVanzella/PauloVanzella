@@ -6,49 +6,6 @@
 
 ---
 
-<div align="center">
-  <h3>Making is a form of thinking.</h3>
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Curiosity
-
-I follow questions before categories. The best rabbit holes are usually the ones that cross more than one field.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Connection
-
-I’m drawn to patterns, relationships and unexpected bridges between ideas that seem unrelated at first.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✦ Craft
-
-I care about how something works, but also about how it feels. Function and form are part of the same problem.
-
-</td>
-<td width="50%" valign="top">
-
-### ↻ Iteration
-
-I learn by making, breaking, questioning and rebuilding. Understanding usually arrives somewhere in that loop.
-
-</td>
-</tr>
-</table>
-
----
-
 ## Things that keep pulling me back
 
 <table>
@@ -118,29 +75,3 @@ Learning languages keeps reminding me that the same world can be organized and e
 | <img src="https://flagcdn.com/24x18/cn.png" width="24" height="18" alt="China"> &nbsp; Chinese | B1 |
 | <img src="https://flagcdn.com/24x18/va.png" width="24" height="18" alt="Vatican City"> &nbsp; Latin | B1 |
 | <img src="https://flagcdn.com/24x18/de.png" width="24" height="18" alt="Germany"> &nbsp; German | A2 |
-
----
-
-## My favorite kind of problem
-
-<div align="center">
-
-### one that starts in one field and ends somewhere completely different
-
-</div>
-
-```text
-observe → question → connect → make → break → understand → repeat
-```
-
-I don’t think every interest needs to become a profession, or every experiment needs to become a product. Some things are worth learning simply because they change the way you see everything else.
-
-<br>
-
-<div align="center">
-
-**The next question is usually more interesting than the last answer.**
-
-<sub>Paulo Vanzella · always learning something</sub>
-
-</div>
