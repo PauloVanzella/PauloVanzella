@@ -1,0 +1,75 @@
+<svg width="900" height="390" viewBox="0 0 900 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .title { fill: #f0f6fc; font: 600 24px 'Segoe UI', Ubuntu, sans-serif; }
+    .subtitle { fill: #8b949e; font: 400 13px 'Segoe UI', Ubuntu, sans-serif; }
+    .label { fill: #c9d1d9; font: 500 15px 'Segoe UI', Ubuntu, sans-serif; }
+    .level { fill: #8b949e; font: 500 12px 'Segoe UI', Ubuntu, sans-serif; }
+    .track { fill: #21262d; }
+    .bar { fill: #8b5cf6; transform-origin: left; transform-box: fill-box; animation: grow 1.25s cubic-bezier(.22,.75,.24,1) forwards; transform: scaleX(0); }
+    .b1 { animation-delay: .10s; }
+    .b2 { animation-delay: .22s; }
+    .b3 { animation-delay: .34s; }
+    .b4 { animation-delay: .46s; }
+    .b5 { animation-delay: .58s; }
+    .b6 { animation-delay: .70s; }
+    .dot { fill: #8b5cf6; opacity: 0; animation: appear .35s ease forwards; }
+    .d1 { animation-delay: 1.05s; } .d2 { animation-delay: 1.17s; } .d3 { animation-delay: 1.29s; }
+    .d4 { animation-delay: 1.41s; } .d5 { animation-delay: 1.53s; } .d6 { animation-delay: 1.65s; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes appear { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .bar { animation: none; transform: scaleX(1); }
+      .dot { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect class="bg" width="900" height="390" rx="16"/>
+
+  <text class="title" x="38" y="48">software spectrum</text>
+  <text class="subtitle" x="38" y="72">from interfaces to the layers underneath them</text>
+
+  <!-- Frontend -->
+  <text class="label" x="38" y="118">Frontend &amp; interaction</text>
+  <text class="level" x="840" y="118" text-anchor="end">strong</text>
+  <rect class="track" x="255" y="104" width="535" height="12" rx="6"/>
+  <rect class="bar b1" x="255" y="104" width="492" height="12" rx="6"/>
+  <circle class="dot d1" cx="747" cy="110" r="5"/>
+
+  <!-- Backend -->
+  <text class="label" x="38" y="163">Backend &amp; APIs</text>
+  <text class="level" x="840" y="163" text-anchor="end">strong</text>
+  <rect class="track" x="255" y="149" width="535" height="12" rx="6"/>
+  <rect class="bar b2" x="255" y="149" width="470" height="12" rx="6"/>
+  <circle class="dot d2" cx="725" cy="155" r="5"/>
+
+  <!-- Data / AI -->
+  <text class="label" x="38" y="208">Data &amp; AI</text>
+  <text class="level" x="840" y="208" text-anchor="end">experienced</text>
+  <rect class="track" x="255" y="194" width="535" height="12" rx="6"/>
+  <rect class="bar b3" x="255" y="194" width="438" height="12" rx="6"/>
+  <circle class="dot d3" cx="693" cy="200" r="5"/>
+
+  <!-- Databases / architecture -->
+  <text class="label" x="38" y="253">Data stores &amp; architecture</text>
+  <text class="level" x="840" y="253" text-anchor="end">experienced</text>
+  <rect class="track" x="255" y="239" width="535" height="12" rx="6"/>
+  <rect class="bar b4" x="255" y="239" width="455" height="12" rx="6"/>
+  <circle class="dot d4" cx="710" cy="245" r="5"/>
+
+  <!-- Infra -->
+  <text class="label" x="38" y="298">Infrastructure &amp; DevOps</text>
+  <text class="level" x="840" y="298" text-anchor="end">comfortable</text>
+  <rect class="track" x="255" y="284" width="535" height="12" rx="6"/>
+  <rect class="bar b5" x="255" y="284" width="401" height="12" rx="6"/>
+  <circle class="dot d5" cx="656" cy="290" r="5"/>
+
+  <!-- Systems -->
+  <text class="label" x="38" y="343">Systems &amp; low-level</text>
+  <text class="level" x="840" y="343" text-anchor="end">experienced</text>
+  <rect class="track" x="255" y="329" width="535" height="12" rx="6"/>
+  <rect class="bar b6" x="255" y="329" width="428" height="12" rx="6"/>
+  <circle class="dot d6" cx="683" cy="335" r="5"/>
+
+  <text class="subtitle" x="38" y="373">breadth over labels — I like understanding how the layers connect</text>
+</svg>

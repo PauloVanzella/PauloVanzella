@@ -61,6 +61,18 @@ A material for ideas — something to understand, shape, combine and occasionall
 
 ---
 
+## Software spectrum
+
+I like working across the stack — from what people interact with to the layers that make it work.
+
+<div align="center">
+  <img src="./assets/software-spectrum.svg" width="100%" alt="Animated software experience spectrum across frontend, backend, data and AI, architecture, infrastructure and systems" />
+</div>
+
+<sub>The bars are intentionally qualitative rather than percentage scores — software knowledge is harder to measure than that.</sub>
+
+---
+
 ## Language atlas
 
 Learning languages keeps reminding me that the same world can be organized and expressed in very different ways.
