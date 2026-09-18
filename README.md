@@ -69,7 +69,7 @@ I like working across the stack — from what people interact with to the layers
   <img src="./assets/software-spectrum.gif" width="100%" alt="Animated software experience spectrum across frontend, backend, data and AI, architecture, infrastructure and systems" />
 </div>
 
-<sub>The bars are intentionally qualitative rather than percentage scores — software knowledge is harder to measure than that.</sub>
+
 
 ---
 
